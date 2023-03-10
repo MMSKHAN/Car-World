@@ -1,0 +1,11 @@
+.backimg{
+    background-image: url("./img/travel.jpg");
+    background-repeat: no-repeat;
+     background-size:100% 100%;
+     height: 100vh;
+     /* width: 100%; */
+}
+.btnhov:hover{
+background-color: white;
+color: black;
+}

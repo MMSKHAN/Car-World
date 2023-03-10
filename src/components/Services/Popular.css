@@ -1,0 +1,43 @@
+.b1{
+    background-image: url("../img/services/ac.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+     height: 50vh;
+    width: 50vh; 
+}
+.b2{
+    background-image: url("../img/services/clutch.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b3{
+    background-image: url("../img/services/light.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b4{
+    background-image: url("../img/services/carservice.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b5{
+    background-image: url("../img/services/Policy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b6{
+    background-image: url("../img/services/safety.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b7{
+    background-image: url("../img/services/spa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b8{
+    background-image: url("../img/services/tyre.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
